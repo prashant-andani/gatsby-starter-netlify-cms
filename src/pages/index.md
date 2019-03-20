@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Great coffee with a conscience - YML
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Great coffee with a conscienceGreat coffee with a conscience - YML
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
